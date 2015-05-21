@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Tries to figure out which disks need to be added to which vg on the host
+# Tells you which lv has stale PPs
 
 hostname=${1}
 
